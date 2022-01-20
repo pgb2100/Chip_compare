@@ -6,4 +6,5 @@ Input file
   3. Microarray chip position list(example - Pos_list)
 
 Command line
+  
   /bash/sh ./chip_ngs_compare.sh [chip_vcf] [chip_pos] [sample_ID] [out_dir] [gvcf]
